@@ -7,3 +7,4 @@ Tri boxa za nova igrice koje dolaze .
 Footer :
 Forum opcija ,
 i About . 
+U izradi projekta sam pazio da bude responsive za vise uredjaja tako da nisam posebno doradjivao .
